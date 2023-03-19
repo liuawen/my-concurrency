@@ -5,7 +5,7 @@ package cn.liuawen.ch02;
  * @description
  * @create 2023-02-19
  */
-public class Runnable implements java.lang.Runnable {
+public class RunnableDemo implements java.lang.Runnable {
     @Override
     public  void  run() {
         int num = 0;

@@ -7,7 +7,7 @@ package cn.liuawen.ch02;
  */
 public class StopDuringSleep2 {
     public static void main(String[] args) throws InterruptedException {
-        Thread thread = new Thread(new Runnable());
+        Thread thread = new Thread(new RunnableDemo());
         thread.start();
         Thread.sleep(5);
         thread.interrupt();

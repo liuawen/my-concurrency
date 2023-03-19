@@ -4,7 +4,7 @@ package cn.liuawen.ch02;
  * @author Liu Awen Email:willowawen@gmail.com
  * @create 2020-10-25
  */
-public class StopThread implements Runnable {
+public class StopThread implements java.lang.Runnable {
 
     @Override
     public void run() {
