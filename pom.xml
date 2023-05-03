@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>JavaConcurrentProgramming78Lectures</module>
+        <module>JavaConcurrentProgrammingInAction_Geek</module>
     </modules>
 
 
